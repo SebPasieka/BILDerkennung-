@@ -1,0 +1,5 @@
+{
+    "projectId": "seb1id",
+    "defaultCommandTimeout": 2000,
+    "baseUrl": "http://localhost:8080"
+  }
