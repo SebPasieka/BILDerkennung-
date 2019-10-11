@@ -45,7 +45,7 @@ classifier.learn('Das Beratungsunternehmen Lurse hat bei Firmen aller Branchen d
 classifier.learn('In den Aufsichtsräten konzentriert sich die wahre Macht über Deutschlands Wirtschaft.','Not(Welt)')
 classifier.learn('Die Deutsche Schutzvereinigung für Wertpapierbesitz (DSW) hat sich sämtliche Aufsichtsräte der Unternehmen im Dax, MDax und SDax angesehen und auf Basis ihrer Analyse eine Rangliste der mächtigsten Firmenaufseher erstellt.','Not(Welt)')
 classifier.learn('Julian, julian, falck, Falck', 'Not(Welt)')
-classifier.learn('Sebastian, sebastian, seb, pasieka, Pasieka', 'Not(Welt)')
+classifier.learn('Sebastian, sebastian, Seb, pasieka, Pasieka', 'Not(Welt)')
 
 
 
